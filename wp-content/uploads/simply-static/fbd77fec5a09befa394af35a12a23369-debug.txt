@@ -1,0 +1,3 @@
+[2024-05-02 09:21:07] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-05-02 09:21:12] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
+[2024-05-02 09:24:35] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/wordpress
